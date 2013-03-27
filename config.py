@@ -1,7 +1,7 @@
 import os
 basedir = os.path.abspath(os.path.dirname(__file__))
 
-SQLALCHEMY_DATABASE_URI = 'postgresql://topherjaynes:Clemson1!@localhost/flasktut'
+SQLALCHEMY_DATABASE_URI = 'postgresql://topherjaynes:**********@localhost/flasktut'
 
 SQLALCHEMY_MIGRATE_REPO = os.path.join(basedir, 'db_repository')
 
