@@ -8,16 +8,17 @@ Flask-SQLAlchemy==0.16
 Flask-WTF==0.8.3
 Flask-WhooshAlchemy==0.55a
 Jinja2==2.6
-SQLAlchemy==0.8.0
+SQLAlchemy==0.7.9
 Tempita==0.5.1
 WTForms==1.0.3
 Werkzeug==0.8.3
 Whoosh==2.4.1
 blinker==1.2
 decorator==3.4.0
-distribute==0.6.31
+distribute==0.6.35
 ## FIXME: could not find svn URL in dependency_links for this package:
 flup==1.0.3.dev-20110405
+psycopg2==2.4.6
 python-openid==2.2.5
 pytz==2013b
 speaklater==1.3
